@@ -1,0 +1,21 @@
+body {
+    background-color:black;
+    font-family: Arial, serif;
+    color: white;
+}
+
+h1 {
+    font-family: Verdana, serif;
+    color:grey;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius:25px;
+    text-align: center;
+}
+
+
